@@ -1,3 +1,5 @@
 // Write your solution here!
 
-pets.push('Odie');
+def append
+  pets.push('Odie');
+end
